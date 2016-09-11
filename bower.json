@@ -1,0 +1,23 @@
+{
+  "name": "calnote",
+  "version": "0.0.0",
+  "authors": [
+    "Christian Niederreiter <christian@niederreiter.tech>"
+  ],
+  "description": "Lightweight purely browser-based notes with calendar",
+  "main": "resources/calnote.js",
+  "license": "MIT",
+  "homepage": "http://niederreiter.tech",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.9",
+    "bootstrap": "~3.3.6",
+    "moment": "~2.11.2"
+  }
+}
